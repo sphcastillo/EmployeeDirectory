@@ -19,7 +19,7 @@ Email : Sphcastillo@gmail.com,
 
 GitHub: https://github.com/sphcastillo,
 
-Heroku Deployed Site: 
+Deployed Site: https://sphcastillo.github.io/EmployeeDirectory/
 
 <img src="Assets/picture1.png">
 <img src="Assets/picture2.png">
